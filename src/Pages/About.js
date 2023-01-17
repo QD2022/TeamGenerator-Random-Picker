@@ -14,7 +14,7 @@ function About() {
           target="blank"
         >
           {" "}
-          <i class="nes-bulbasaur"></i>
+          <i className="nes-bulbasaur"></i>
         </a>
         <a
           href="https://www.pokemon.com/de/pokedex/schiggy"
@@ -22,7 +22,7 @@ function About() {
           target="blank"
         >
           {" "}
-          <i class="nes-squirtle"></i>
+          <i className="nes-squirtle"></i>
         </a>
         <a
           href="https://www.pokemon.com/de/pokedex/glumanda"
@@ -30,17 +30,17 @@ function About() {
           target="blank"
         >
           {" "}
-          <i class="nes-charmander"></i>
+          <i className="nes-charmander"></i>
         </a>
       </section>
-      <section class="icon-list">
+      <section className="icon-list">
         <a
           href="https://www.linkedin.com/in/q-d-59a659261/"
           rel="noopener noreferrer"
           target="blank"
         >
           {" "}
-          <i class="nes-icon linkedin is-large"></i>
+          <i className="nes-icon linkedin is-large"></i>
         </a>
         <a
           href="https://www.github.com"
@@ -48,7 +48,7 @@ function About() {
           target="blank"
         >
           {" "}
-          <i class="nes-icon github is-large"></i>
+          <i className="nes-icon github is-large"></i>
         </a>
         <a
           href="https://www.instagram.com"
@@ -56,7 +56,7 @@ function About() {
           target="blank"
         >
           {" "}
-          <i class="nes-icon instagram is-large"></i>
+          <i className="nes-icon instagram is-large"></i>
         </a>
         <a
           href="https://www.twitter.com"
@@ -64,12 +64,12 @@ function About() {
           target="blank"
         >
           {" "}
-          <i class="nes-icon twitter is-large"></i>
+          <i className="nes-icon twitter is-large"></i>
         </a>
       </section>
-      <i class="nes-icon is-large heart"></i>
-      <i class="nes-icon is-large heart"></i>
-      <i class="nes-icon is-large heart is-empty"></i>
+      <i className="nes-icon is-large heart"></i>
+      <i className="nes-icon is-large heart"></i>
+      <i className="nes-icon is-large heart is-empty"></i>
     </div>
   );
 }

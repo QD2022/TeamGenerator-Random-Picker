@@ -50,7 +50,7 @@ function TeamGenerator() {
       <div className="lists">
         {teams.map((team, index) => {
           return (
-            <ul className="nes-list" key={index}>
+            <ul id="teamliste" className="nes-list" key={index}>
               {" "}
               <p>Team {index + 1}</p>
               {team.map((member, index) => {

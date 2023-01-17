@@ -5,7 +5,7 @@ function NameListInput() {
   const user = useContext(UserContext);
   return (
     <div className="spieler-input-container nes-field">
-      <label for="name_field">Spielerliste</label>
+      <label htmlFor="name_field">Spielerliste</label>
       <textarea
         className="nes-input"
         id="name_field"
