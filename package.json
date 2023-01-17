@@ -2,7 +2,7 @@
   "name": "final-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://QD2022.github.io/TeamGenerator-Random-Picker",
+  "homepage": "https://github.com/QD2022/TeamGenerator-Random-Picker",
   "dependencies": {
     "nes.css": "^2.3.0",
     "react": "^18.2.0",
