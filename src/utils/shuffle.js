@@ -3,7 +3,7 @@ function shuffle(array) {
     randomIndex;
 
   // while Elemente da sind zum mischen
-  while (currentIndex != 0) {
+  while (currentIndex !== 0) {
     // wählt das element aus
     randomIndex = Math.floor(Math.random() * currentIndex);
     currentIndex--;
